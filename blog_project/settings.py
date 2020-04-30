@@ -25,7 +25,7 @@ SECRET_KEY = '^b_v9d-gix_$$=lie=g2e0r294b#lha+^1wmdznd*k+h9thybk'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [*]
+ALLOWED_HOSTS = ['.pythonanywhere.com']
 
 
 # Application definition
